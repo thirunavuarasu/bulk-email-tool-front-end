@@ -5,7 +5,7 @@ import Register from './components/Register';
 import Dashboard from './components/Dashboard';
 import EmailTemplateEditor from './components/EmailTemplateEditor';
 import RecipientListManager from './components/RecipientListManager';
-import NotFound from './components/NotFound'; // Create this component to handle 404s
+import NotFound from './components/NotFound'; 
 
 function App() {
   return (
